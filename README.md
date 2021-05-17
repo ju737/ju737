@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi, I'm Júlia Corrêa Santos
 
-<!--
-**ju737/ju737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+&nbsp; <a href="https://www.instagram.com/jucorrea2005/" target="_balnk" rel=noopener noreferrer"><img
+ srch = ttps://img.shields.io/badge/Instagram-1d3557?style=for-the-badge&logo=instagram&logoColor=white
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
